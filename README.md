@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my own projects<br>👯 I’m looking to collaborate with the others dev<br>🔭 Im currently learning web development<br>🌱 Im finishing my studies in Systems Engineering at UPTC.<br>
+🔭 Software developer<br>🔭 Im currently improve my skills<br>🌱 Im finishing my studies in Systems Engineering at UPTC.<br>
 
 
 ## 🌐 Socials:
