@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Software developer<br>🔭 Im currently improve my skills<br>🌱 Im finishing my studies in Systems Engineering at UPTC.<br>
+🔭 Software developer<br>🔭 Im currently improve my skills<br>🌱 Systems Engineering.<br>
 
 
 ## 🌐 Socials:
