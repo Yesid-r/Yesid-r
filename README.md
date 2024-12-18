@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Software developer<br>🔭 Im currently improve my skills<br>🌱 Systems Engineering.<br>
+🔭 Software developer<br>🔭 Im currently improve my skills<br>🌱 Systems and computer Engineer.<br>
 
 
 ## 🌐 Socials:
